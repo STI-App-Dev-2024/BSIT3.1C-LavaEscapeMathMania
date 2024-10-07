@@ -10,3 +10,6 @@
  ## Design
 - [FIGMA](https://www.figma.com/proto/aNJJREcLBh8GNrhPqrpTRt/App-Dev?node-id=1-8&t=2icPEYKUWHW9byLp-1&starting-point-node-id=1%3A8)
 - [DATABASE DESIGN](https://drive.google.com/file/d/1dljoML1X8d9yxYq9TQ6IFcLa6Ezkss8V/view?usp=sharing)
+
+## Gantt Chart
+![Gantt Chart](https://github.com/user-attachments/assets/a383884d-7535-4ed1-8ab7-91216e126896)
